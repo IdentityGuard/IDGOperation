@@ -1,0 +1,6 @@
+use_frameworks!
+target 'IDGOperation_Tests' do
+  pod 'IDGOperation', :path => '../'
+  
+  
+end

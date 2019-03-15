@@ -1,0 +1,16 @@
+PODS:
+  - IDGOperation (0.1.0)
+
+DEPENDENCIES:
+  - IDGOperation (from `../`)
+
+EXTERNAL SOURCES:
+  IDGOperation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IDGOperation: b5b7ffeb8715b5ccf9a1e36af0bc6bf92dc07318
+
+PODFILE CHECKSUM: 398a5b4e412a61c0395181509dbde740b3819f3d
+
+COCOAPODS: 1.6.1

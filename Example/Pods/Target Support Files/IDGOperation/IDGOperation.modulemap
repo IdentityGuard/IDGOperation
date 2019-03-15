@@ -1,0 +1,6 @@
+framework module IDGOperation {
+  umbrella header "IDGOperation-umbrella.h"
+
+  export *
+  module * { export * }
+}
